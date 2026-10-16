@@ -1,6 +1,8 @@
-# ⚡ Energy Monitoring Platform
+Energy Monitoring Platform
 
-An end-to-end energy anomaly detection system combining statistical methods and machine learning, with an interactive dashboard.
+A Python project for monitoring energy consumption and detecting anomalies using statistical methods and machine learning.
+
+The project includes a Streamlit dashboard to visualize consumption data, identify unusual patterns, and explore detected anomalies.
 
 ## 📊 Dashboard Preview
 
